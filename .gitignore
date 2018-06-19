@@ -1,0 +1,4 @@
+*.pdf
+*.ods
+*.txt
+__pycache__/
