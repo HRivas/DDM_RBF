@@ -1,6 +1,6 @@
 # Domain Decomposition Method using Shur Complement and Radial Basis Function
 
-This program solves the Laplace equation in a C-shape domain. The substructuring method of Shur Complement and Radial Basis Function to solve the PDE. The domain was divided in two subdomains.
+This program solves the Laplace's equation in a C-shape domain. The substructuring method of Shur Complement and Radial Basis Function to solve the PDE. The domain was divided in two subdomains.
 
 The main program is rbfddm.py, it is implemented in python 3. One can change the number of nodes by modifying the `L` and `H` variables, `L` should be a multiple of two and `H` a mulitple of three.
 
